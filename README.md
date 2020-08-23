@@ -8,6 +8,8 @@
 - 🥅 2020 Goals: Step foot into the CS industry to grow my young career as a software engineer/developer
 - ⚡ Fun fact: Very active sports fanatic, with a fiery love and passion for NBA Basketball "Go Spurs!" and ultimate frisbee
 
+## Ultimately, Always strive to be better...😔💛💜 8/24
+
 <br />
 ---
 

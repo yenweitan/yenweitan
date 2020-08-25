@@ -1,6 +1,6 @@
 ### Hi there, I'm Yen Wei Tan - [yenweitan][website] 👋
 
-## I'm an up and coming Software Engineering grad of class 2020; looking for entry level job opportunities 🚀
+## I'm an up and coming Software Engineering grad of class 2020; looking for CS/SE job opportunities 🚀
 
 - 🔭 I’m currently fiddling around with basic Arduino hardware to revise on my C++ and learn new things within the Arduino environment!
 - 🌱 Solving Leetcode, Hackerrank and Codility questions on D.S and Algo for OAs' as well🤣
